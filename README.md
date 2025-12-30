@@ -25,6 +25,24 @@ This repository offers:
 - Security posture improvement
 - Audit preparation
 
+## Classification Model
+Data is grouped into four sensitivity tiers
+- Public
+- Internal
+- Confidential
+- Highly Confidential
+Each Tier Includes
+- Description
+- Example data types
+- Recommended protection controls
+
+## Tools and Concepts Used
+- Microsoft Purview
+- Sensitivity Labels
+- Auto - Labelling concepts
+- Compliance posture review
+- Risk-based classification approach
+
 ## Limitations
 This framework is provided as a reference implementation and should be adapted
 to organisational requirements, regulatory environments, and risk appetite.
@@ -33,3 +51,8 @@ to organisational requirements, regulatory environments, and risk appetite.
 - Additional regulatory mappings
 - Expanded data source coverage
 - Automation examples
+
+## Author
+Oluwaseun Deborah Adebayo
+Cloud | Cybersecurity Expert
+(Self-sponsored initiative)
