@@ -1,0 +1,13 @@
+{
+  "classification_name": "Personally Identifiable Information (PII)",
+  "description": "Data that can be used to identify an individual",
+  "examples": [
+    "Full name",
+    "Email address",
+    "Phone number",
+    "National ID"
+    "SSN"
+  ],
+  "recommended_sensitivity_label": "Confidential",
+  "risk_level": "High"
+}
